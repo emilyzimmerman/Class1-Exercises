@@ -1,0 +1,8 @@
+What are data types?
+    Items that stores values and that the program uses/ apply to the application. 
+What are operators used for?
+    How the data is maniplulated 
+What are conditional statements?
+    A piece of code that is ran depending on if the code is true or not
+What are loops?
+    A piece of code that will repeat until the condition is met 
